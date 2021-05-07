@@ -16,9 +16,9 @@
 <img src="https://github.com/pal-16/Issue-Label-Bot-ML-Project/blob/master/readme-assets/bot.png" height = 300>
 
 # Team Members
-- Saif Kazi
+- Shreya Dhanajay
 - Palak Mantry
-- Shreya Dhanajay 
-- Saqrakshi Phate
+- Saif Kazi
+- Sarakshi Phate
 
 
